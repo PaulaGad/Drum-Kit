@@ -1,0 +1,16 @@
+{
+  "name": "drum-kit",
+  "version": "1.0.0",
+  "description": "A simple page that uses JavaScript to play drums. Built on a course Angela Yu \"The Complete 2021 Web Development Bootcamp\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Drums",
+    "music"
+  ],
+  "author": "Paula Gadomska, Angela Yu",
+  "license": "ISC"
+}
